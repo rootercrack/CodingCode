@@ -4,7 +4,7 @@
         <label>Username</label>
         <div class="input-group-prepend">
             <div class="input-group-text">
-                <i class="fas fa-user"></i></a>
+                <i class="fas fa-user"></i>
             </div>
             <input type="text" name="username" class="form-control" placeholder="Username" autocomplete="off" required>
         </div>
@@ -14,7 +14,7 @@
         <div class="input-group">
             <div class="input-group-prepend">
                 <div class="input-group-text">
-                    <i class="fas fa-lock"></i></a>
+                    <i class="fas fa-lock"></i>
                 </div>
             </div>
             <input class="form-control" name="password" type="password" placeholder="Password" id="pass" autocomplete="off" required>
