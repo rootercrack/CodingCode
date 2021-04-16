@@ -26,5 +26,5 @@
             </div>
         </div>
     </div>
-    <button type="submit" class="btn btn-primary mb-5">Login</button>
+    <button type="submit" class="btn btn-primary mb-5"><i class="fas fa-sign-in-alt"></i> Login</button>
 </form>
